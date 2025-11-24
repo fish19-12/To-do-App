@@ -1,0 +1,53 @@
+.card {
+  background: white;
+  padding: 16px;
+  border-radius: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: transform 0.15s ease;
+  border: 1px solid #eee;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+.text {
+  font-size: 16px;
+  color: #333;
+}
+
+.editInput {
+  flex: 1;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #aaa;
+}
+
+.buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.edit,
+.delete,
+.save {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  color: white;
+}
+
+.edit {
+  background: #28a745;
+}
+
+.delete {
+  background: #d32f2f;
+}
+
+.save {
+  background: #1976d2;
+}
