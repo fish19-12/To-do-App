@@ -31,8 +31,8 @@ README.md
 ## 🛠️ Tech Stack
 
 - **React**
-- **Vite or Create React App** (whichever you used)
-- **CSS / Tailwind (optional)**
+- **Vite 
+- **CSS module
 
 ---
 
