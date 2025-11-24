@@ -66,4 +66,10 @@ This project helped me practice:
 
 ---
 
+---
+
+## 📄 License
+This project is free to use and modify.
+
+
  
