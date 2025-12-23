@@ -27,25 +27,7 @@ You can add tasks, edit them, and delete them — perfect for practicing CRUD op
 
 ---
 
-## ▶️ How to Run the App
-
-1. Install dependencies  
-npm install
-
-2. Start development server  
-npm run dev
-
-3. Open browser at:  
-http://localhost:5173/
-
-
----
-
-## 📤 Deployment
-
-This app can be deployed  using **Vercel**,
-
----
+ 
 
 ## 💡 Why I Built This
 
