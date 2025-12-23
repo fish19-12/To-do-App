@@ -16,16 +16,7 @@ You can add tasks, edit them, and delete them — perfect for practicing CRUD op
 
 ---
 
-## 📂 Project Structure
-
-src/
-├── components/
-├── App.jsx
-├── index.jsx
-public/
-package.json
-README.md
-
+ 
 ---
 
 ## 🛠️ Tech Stack
